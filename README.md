@@ -1,4 +1,6 @@
-# mediascrape
+# twitscrape
+
+A fixed version of @mannynotfound "mediascrape" works again. 
 
 Download a Twitter user's media easily, no API keys needed.
 
