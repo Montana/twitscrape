@@ -1,6 +1,6 @@
 # twitscrape
 
-A fixed version of @mannynotfound "mediascrape" works again. Download a Twitter user's media easily, no API keys needed. Built by @mannynotfound, patched by Montana Mendy. 
+A fixed version of @mannynotfound "mediascrape". Download a Twitter user's media easily, no API keys needed. Built by @mannynotfound, patched by Montana Mendy. 
 
 <p align="center">
   <img width="80%" src="cover.png" />
