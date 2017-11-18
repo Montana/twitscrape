@@ -52,10 +52,3 @@ If you wish to specify a directory to save media into you can do with with the `
 `python3 multi_mediascrape.py -f [txt file of names] -o [output directory]`
 
 When using `-o` remember to specify an absolute path.
-
-## memefinder
-
-experimental script to find the same images posted in different tweets, possibly
-suggesting the image is of meme interest
-
-`python memefinder.py -d [optional directory] -x [show cross post only]`
